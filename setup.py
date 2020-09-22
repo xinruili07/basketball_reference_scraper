@@ -27,7 +27,6 @@ setuptools.setup(
         'numpy>=1.18.1',
         'pandas>=0.25.3',
         'python-dateutil==2.8.1',
-        'pytz==2019.3',
         'requests>=2.22.0',
         'six>=1.13.0',
         'soupsieve==1.9.5'
